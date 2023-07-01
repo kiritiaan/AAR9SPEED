@@ -1,0 +1,11 @@
+C:\Users\Khristian Mangubat\source\repos\InventoryAndPOS\InventoryAndPOS\bin\Debug\InventoryAndPOS.exe.config
+C:\Users\Khristian Mangubat\source\repos\InventoryAndPOS\InventoryAndPOS\bin\Debug\InventoryAndPOS.exe
+C:\Users\Khristian Mangubat\source\repos\InventoryAndPOS\InventoryAndPOS\bin\Debug\InventoryAndPOS.pdb
+C:\Users\Khristian Mangubat\source\repos\InventoryAndPOS\InventoryAndPOS\obj\Debug\InventoryAndPOS.csproj.AssemblyReference.cache
+C:\Users\Khristian Mangubat\source\repos\InventoryAndPOS\InventoryAndPOS\obj\Debug\InventoryAndPOS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Khristian Mangubat\source\repos\InventoryAndPOS\InventoryAndPOS\obj\Debug\InventoryAndPOS.Form1.resources
+C:\Users\Khristian Mangubat\source\repos\InventoryAndPOS\InventoryAndPOS\obj\Debug\InventoryAndPOS.Properties.Resources.resources
+C:\Users\Khristian Mangubat\source\repos\InventoryAndPOS\InventoryAndPOS\obj\Debug\InventoryAndPOS.csproj.GenerateResource.cache
+C:\Users\Khristian Mangubat\source\repos\InventoryAndPOS\InventoryAndPOS\obj\Debug\InventoryAndPOS.csproj.CoreCompileInputs.cache
+C:\Users\Khristian Mangubat\source\repos\InventoryAndPOS\InventoryAndPOS\obj\Debug\InventoryAndPOS.exe
+C:\Users\Khristian Mangubat\source\repos\InventoryAndPOS\InventoryAndPOS\obj\Debug\InventoryAndPOS.pdb
